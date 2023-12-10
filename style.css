@@ -338,10 +338,6 @@ span{
     resize: none;
 }
 
-.contact form .btn {
-    margin-top: 2rem;
-    cursor: pointer;
-}
 
 .footer {
     display: flex;
